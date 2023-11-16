@@ -1,1 +1,1 @@
-WSURL = 'ws://localhost:5000';
+WSURL = 'wss://starmame5tkmninja.onrender.com';
